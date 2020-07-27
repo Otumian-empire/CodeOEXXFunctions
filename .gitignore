@@ -1,0 +1,8 @@
+*.out
+*.o
+*.py
+.vscode
+__pycache__
+*.gch
+app
+
